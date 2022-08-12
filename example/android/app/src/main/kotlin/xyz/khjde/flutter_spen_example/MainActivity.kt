@@ -1,0 +1,6 @@
+package xyz.khjde.flutter_spen_example
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
